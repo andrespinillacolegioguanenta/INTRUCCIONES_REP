@@ -1,16 +1,16 @@
 # Programa para validar el "Passwords"
 
-# -----------------
-# libraries
-# -----------------
-
 print("-------------------------------------------------------------------------")
 print("------------EL PASSWORD ES CORRECTO O INCORRECTO--------")
 print("-------------------------------------------------------------------------")
 import math
 
 # -----------------
-# Intput
+# libraries
+# -----------------
+
+# -----------------
+# Input
 # -----------------
 
 password= input("Digita la contraseña: ")
